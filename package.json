@@ -1,0 +1,20 @@
+{
+  "name": "algorithm-counting-sort",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelcarvalhods/algorithm-counting-sort.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafaelcarvalhods/algorithm-counting-sort/issues"
+  },
+  "homepage": "https://github.com/rafaelcarvalhods/algorithm-counting-sort#readme"
+}
